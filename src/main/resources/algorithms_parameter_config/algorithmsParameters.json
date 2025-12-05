@@ -1,0 +1,14 @@
+{
+  "serverlessWorkflowDelayType": "SFN",
+  "serverlessWorkflowPlatform": "AWS",
+  "numOfGenesOfEASW": 600,
+  "crossRateOfEASW": 0.9,
+  "mutationRateOfEASW": 0.9,
+  "mutationRateOfGA": 0.9,
+  "numOfGenerationsOfEASW": 300,
+  "ETA_M_Of_EASW": 10,
+  "ETA_M_Of_GA": 20,
+  "budgetNumberOfEASW": 20,
+  "performanceNumberOfEASW": 20,
+  "BCRthresholdOfPRCP": 0.2
+}
